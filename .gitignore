@@ -1,0 +1,6 @@
+.gradle/
+build/
+jpa-demo.iml
+jpa-demo.ipr
+jpa-demo.iws
+out/
